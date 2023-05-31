@@ -1,10 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # PYTHON MEDİUM LEVEL PROBLEM SOLVING
 
 # In[18]:
-
 
 #INCOME ACCOUNT
 def income(info):
